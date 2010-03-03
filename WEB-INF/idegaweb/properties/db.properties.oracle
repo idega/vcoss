@@ -1,0 +1,9 @@
+drivers=oracle.jdbc.driver.OracleDriver
+
+default.url=jdbc:oracle:thin:@localhost:1521:testdb
+#default.url=jdbc:oracle:oci:@(description=(address=(host=testdb)(protocol=tcp)(port=1521))(connect_data=(sid=testdb)))
+default.user=system
+default.password=enterpassword
+default.initconns=3
+default.maxconns=10
+

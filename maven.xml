@@ -1,0 +1,21 @@
+<project
+  xmlns:j="jelly:core"
+  xmlns:util="jelly:util"
+  xmlns:ant="jelly:ant">
+
+  <preGoal name="iw-application:webapp" >
+  	<ant:propertyfile file="WEB-INF/idegaweb/properties/product.properties" comment="Properties of this application product">
+  		<ant:entry key="application.product.name" value="${pom.name}" />
+  		<ant:entry key="application.product.version" value="${pom.currentVersion}" />
+  		<ant:entry key="application.product.vendor" value="${pom.organization.name}" />
+  		<ant:entry key="application.product.inceptionyear" value="${pom.inceptionYear}" />
+  		<ant:entry key="application.product.build.id" type="date" value="now" pattern="yyyyMMdd.hhmmss" />
+  	</ant:propertyfile>
+  </preGoal>
+
+
+  <postGoal name="iw-application:deploy-snapshot">
+    <ant:copy file="target/${pom.artifactId}-${pom.currentVersion}.war" toFile="${idegaweb.webapps.test.dir}/${pom.artifactId}.war"/>
+  </postGoal>
+
+</project>

@@ -1,0 +1,642 @@
+body {
+	background-image: url(/content/files/public/style/gradient_5.gif);
+}
+
+a {
+	color: #1B8E4D;
+}
+
+
+h1 {
+	color: #1b8e4d;
+	text-transform: uppercase;
+}
+
+#leftColumn #lc_guide a {
+	background-image: url(/content/files/public/style/images/lifandiLeidsogn/sparitorg.gif);
+}
+
+#login_box h2, #leftColumn h2 {
+	color: #1B8E4D;
+}
+
+.applications_box_header {
+	color: #1B8E4D;
+	font-size: 0.9em;
+	font-weight: bold;
+	line-height: 1.8em;
+	height: 18px;
+	padding-left: 9px;
+	margin-bottom: 10px;
+}
+
+HR {
+	border-bottom : #ccc solid 1px;
+}
+
+#leftColumn div#lc_modernus {
+	padding: 0;
+	margin: 0;
+	min-height: 20px;
+}
+
+#leftColumn div#lc_modernus img {
+	width: 182px;
+}
+
+.text_headline2 {
+	color: #1B8E4D
+}
+
+table.data th {
+	background-color: #F1F1F1;
+	color: #1B8E4D;
+}
+
+#content h4 {
+	font-size: 0.7em;
+	color: #1B8E4D;
+	margin: 19px 0 2px 21px;
+}
+
+.percentageLevel {
+	background-color: #1B8E4D ! important;
+	margin-left: 0 ! important;
+}
+
+#content #sparitorg_articles .article_item {
+	border: 1px #ccc solid;
+	padding : 0px;
+	margin-bottom : 10px;
+}
+
+
+}
+
+#content .article_body {
+	padding-left : 10px;
+	padding-bottom : 0px;
+	margin-bottom : 30px;
+}
+
+ul.defaultList li {
+	list-style: inside;
+	color: #1B8E4D;
+	margin-bottom: 16px;
+	padding: 2px;
+	padding-left: 10px;
+	border: 1px #ccc solid;
+	background: url(left_column_bg.jpg) repeat-x top left #F1F1F1;
+}
+
+ul.defaultList li a {
+	text-decoration: none;
+	font-size: 10px;
+	color: #1B8E4D;
+}
+
+ul.defaultList li span {
+	font-size: 10px;
+	color: #1B8E4D;
+}
+
+ul.defaultList li a:hover {
+	text-decoration: underline;
+}
+
+ul.defaultList li ul {
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+ul.defaultList li ul li {
+	margin: 0;
+	padding: 0;
+	padding-left: 18px;
+	border: 0;
+	background: none;
+}
+
+#content H2 {
+	text-decoration: none;
+	margin-top : 0px;
+	padding-left: 10px;
+	background: url(left_column_bg.jpg) repeat-x top left #F1F1F1;
+	font-size : 10px;
+	color : #5C5C5C;
+	padding : 3px 0px 3px 10px;
+	border-bottom : 1px solid #A9A9A9;
+}
+
+
+#content .topContent h1{
+	font-size: 17px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom: 10px;
+}
+
+div.topContent{
+	background: url(/content/files/public/style/images/backgrounds/spariBackground.gif) no-repeat;
+	margin-bottom: 0px;
+	border-bottom: 1px solid #a4a4a4;
+}
+
+.topContentPlacer{
+	padding: 20px 16px 10px 18px;
+}
+
+.topContent p{
+	font-size: 11px;
+	color: #3f3f3f;
+	margin-bottom: 5px;
+	line-height: 14px;
+}
+
+
+#content div.boxContent {
+	color : #5C5C5C;
+	ffont-size : 10px;
+	padding : 0px 0px;
+}
+
+#content div.box {
+	width : 271px;
+	border: 1px solid #A9A9A9;
+}
+
+#content div#articleLeft{
+	float : left;
+}
+
+#content div#surveyRight{
+	float : right;
+}
+
+.article_item, .article_item_first, .article_item_last, .article_item_odd, .article_item_even {
+	float : left;
+	padding : 0;
+	margin: 0;
+	width : auto !important;
+}
+
+.article_headline {
+	padding-left : 0;
+	color: #1B8E4D !important;
+}
+
+.article_teaser {
+	padding-left : 0;
+	display: none !important;
+}
+
+.article_creation_date {
+	display : block !important;
+	color : #5C5C5C !important;
+	padding-left : 0;
+}
+
+
+
+
+/*Start of Einstaklingar Styles*/
+
+#einstaklingar_articles .curveBox span h1{
+color: #1B8E4D;
+}
+
+
+#einstaklingar_articles .article_headline{
+display: none;
+}
+
+#einstaklingar_articles .article_creation_date{
+display: none !important;
+}
+
+
+#einstaklingar_articles .curveBoxContent p{
+float: left;
+}
+
+#einstaklingar_articles #children img{
+margin-left: 40px;
+}
+
+#studentsContent{
+height: auto;
+background: url("/content/files/public/style/images/backgrounds/hugeNewsBackground.gif");
+}
+
+#studentsContent img{
+margin: 0 0 4px 78px;
+
+}
+
+#Namsmenn1{
+float: right;
+margin: 25px 17px 50px 0;
+width: 186px;
+height: 33px;
+}
+
+#Namsmenn1 img{
+margin: 0;
+}
+
+#grownupsContent{
+height: auto;
+background: url("/content/files/public/style/images/backgrounds/hugeNewsBackground.gif");
+}
+
+#threeWays{
+margin-left: 200px;
+}
+
+#threeWays span{
+background: none;
+color: #1B8E4D;
+font-weight: bold;
+}
+
+#threeWaysPics{
+display: block;
+clear: left;
+padding: 10px 0 15px 0;
+}
+
+#threeWaysPics a{
+margin-right: 9px;}
+
+#oldFolksContent{
+height: auto;}
+
+#oldFolksContent img{
+margin: 4px 0 4px 43px;}
+
+#companiesContent{
+height: auto;}
+
+#companiesContent img{
+float: right;
+margin: 4px 3px 4px 0;
+}
+
+#marketContent{
+height: auto;}
+
+
+/*End of Einstaklingar Styles*/
+
+
+
+
+
+
+
+.survey H1 {
+	display : none;
+}
+
+.survey H2 {
+	font-size : 1.1em !important;
+	color : #1B8E4D !important;
+	background : none !important;
+	border-bottom : 0 !important;
+}
+
+.survey span {
+	font-size : 0.9em;
+}
+
+.survey .survey_buttons {
+	text-align : right;
+}
+
+.survey .survey_buttons a {
+	color : #1B8E4D !important;
+}
+
+.survey .legend {
+	width : 100px;
+	background-color : #F1F1F1;
+	border : 1px solid #A9A9A9;
+}
+
+.survey .selected_incorrect {
+	background: url(/idegaweb/bundles/com.idega.builder.bundle/resources/del_16.gif) 0px 0px no-repeat;
+	margin-left : -20px;
+	padding-left : 20px;
+}
+
+.survey ul li SPAN {
+	height : 16px;
+}
+
+.survey .legend {
+	display : none;
+}
+
+div#leftColumn div#spariModernus div.modernusTop {
+	background-image: url(/content/files/public/style/modernus/spari_top.gif);
+}
+
+div#leftColumn div#spariModernus ul li {
+	color: #1B8E4D;
+}
+
+div#leftColumn div#spariModernus ul li a {
+	color: #1B8E4D;
+}
+
+div#leftColumn div#lc_currency div.box_content {
+	padding: 6px;
+}
+
+div#leftColumn div#lc_currency table {
+	width: 162px;
+}
+
+div#leftColumn div#lc_currency table tr th {
+	display: none;
+}
+
+div#leftColumn div#lc_currency table tr.XDR td, div#leftColumn div#lc_currency table tr.ISK td {
+	display: none;
+}
+
+div#leftColumn div#lc_currency table tr td {
+	padding: 0;
+	font-size: 11px;
+	color: #ff0;
+}
+
+div#leftColumn div#lc_currency table tr td.buyValue, div#leftColumn div#lc_currency table tr td.sellValue {
+	text-align: right;
+}
+
+.bottomBox span h1{
+	font-size: 1px;
+	display: block;
+	background: url(/content/files/public/style/images/smallTabs/left.gif) no-repeat;
+	padding: 3px 0 2px 4px;
+	color: #1B8E4D !important;
+}
+
+#bottomItems #articleLeft .boxContent{
+	border: 1px solid #a4a4a4 !important;
+	clear: left;
+	background: url(/content/files/public/style/images/backgrounds/bigNewsBackground.gif);
+	position: relative;
+	padding-bottom: 15px;
+	overflow: hidden;
+}
+
+#articleLeft .article_body{
+	display: none;
+}
+
+#articleLeft .article_teaser{
+	display: block !important;
+}
+
+#surveyRight{
+	width: 276px;
+	float: left;
+}
+
+.boxSurvey{
+	border: 1px solid #a4a4a4;
+	clear: both;
+}
+
+.boxSurvey span{
+	background-image: none !important;
+}
+
+.surveyTeaser{
+	clear: both;
+	border: 1px solid #a4a4a4;
+	background: url(/content/files/public/style/images/backgrounds/bigNewsBackground.gif);
+	position: relative;
+	overflow: hidden;
+}
+
+.surveyTeaser p{
+	font-size: 0.9em;
+	color: #777;
+}
+
+.item_details_command{
+	display: block !important;
+}
+
+.surveyTeaser h3{
+	padding: 24px 0 0 14px;
+	font-size: 1.1em !important;
+	color: #1B8E4D !important;
+}
+
+#bottomItems .bottomBox .surveyTeaser span{
+	background-image: none;
+	padding: 5px 0 0 14px;
+	margin-bottom: 25px;
+}
+
+.boxContent .linkContainer{
+	display: block;
+	float: right;
+}
+
+.boxContent .linkContainer a{
+	margin-right: 15px;
+	display: block;
+	width: 87px;
+	height: 17px;
+	background: url(/content/files/public/style/images/moreNews.gif);
+}
+
+.surveyTeaser p a{
+	margin-right: 15px;
+	display: block;
+	float: right;
+	width: 100px;
+	height: 17px;
+	background: url(/content/files/public/style/images/takeTest.gif);
+	margin-bottom: 15px;
+}
+
+* html .surveyTeaser{ /* For your IE's only */
+	height: 120px !important;
+}
+
+.frontpageBox{
+margin: 10px 0 0 0 !important;
+float: left;
+}
+
+#content .paddingLayer #bottomItems #articleLeft .boxContent{
+width: 562px !important;
+}
+
+.frontpageBox span{
+background-image: url(/content/files/public/style/images/smallTabs/smallRight.gif)
+padding-right: 32px;
+}
+
+.frontpageBox h1{
+color: #1B8E4D !important;
+}
+
+#frontpageBoxOneContent{
+width: auto;
+height: auto;
+}
+
+.frontpageBox ul li{
+border-bottom: 1px solid #ccc;
+}
+
+#frontpageBoxOne{
+margin-right: 11px !important;
+width: 197px;
+}
+
+#frontpageBoxTwo{
+margin-right: 12px !important;
+width: 173px;
+}
+
+#frontpageBoxThree{
+width: 193px;
+}
+
+
+.frontpageBox ul{
+color: #1B8E4D;
+text-transform: uppercase;
+font-size: 11px;
+font-weight: bold;
+list-style: none;
+}
+
+.frontpageBox ul li{
+border-top: 1px #fff solid;
+padding: 0 16px;
+background: url("/content/files/public/style/images/listArrow.gif") 5px no-repeat;
+line-height: 24px;
+}
+
+.frontpageBox ul li a{
+text-decoration: none;
+color: #1B8E4D;
+}
+
+.eduBox{
+width: auto !important;
+float: left;
+overflow: hidden;
+}
+
+.eduBoxOdd{
+margin-right: 6px;
+}
+
+.eduBoxContent{
+width: 278px !important;
+height: 68px !important;
+}
+
+html>body .eduBox .eduBoxContent p{
+display: block;
+float: left;
+}
+
+
+.eduBox .eduBoxContent p span{
+background: none;
+margin-top: 10px;
+margin-left: 10px;
+font-size: 11px;
+}
+
+#longEduBox span{
+background-image: url("/content/files/public/style/images/smallTabs/smallRight.gif");
+padding-right: 32px;
+}
+
+#longEduBox .eduBoxContent span{
+background: none;
+}
+
+
+.eduBox h1{
+color: #1B8E4D !important;
+}
+
+.eduBox a{
+background: url("/content/files/public/style/images/takeTest.gif");
+display: block;
+margin: 39px 0 0 190px;
+width: 78px;
+height: 17px;
+}
+
+.eduBoxBottom{
+margin-bottom: 12px;
+}
+
+.eduText{
+margin: 26px 0 26px 26px;
+}
+
+.eduText h1{
+font-size: 14px;
+text-transform: none;
+}
+
+.eduText p{
+font-size: 11px;
+}
+
+.calcBox a{
+background-image: url(/content/files/public/style/images/view_button.gif);
+width: 50px;
+margin-left: 218px;
+}
+
+.survey .selected_correct{
+color: green;
+
+}
+
+#content .radiobutton span{
+width: 500px
+}
+
+* html .padder .calcBox{
+position: relative;
+}
+
+* html .padder .calcBox a {
+position: absolute;
+right: 12px;
+bottom: 10px;
+}
+
+#vildar{
+font-weight: bold;
+color: #1B8E4D
+}
+
+.survey .survey_buttons a {
+float: right;
+margin-bottom: 20px;
+display: block;
+width: 46px;
+height: 17px;
+background: url("/content/files/public/style/button_send2.gif");
+}
+
+.survey .survey_buttons a span{
+display: none;
+}

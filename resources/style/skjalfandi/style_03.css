@@ -1,0 +1,287 @@
+body {
+	background-image: url(/content/files/public/style/gradient_3.gif);
+}
+
+a {
+	color: #106FA5;
+}
+
+#login_box h2, #leftColumn h2 {
+	color: #106FA5;
+}
+
+#leftColumn ul.lc_list_a {
+	list-style-image: url(lc_list_bullet_03.gif);
+}
+
+#leftColumn p.lc_month_nav {
+	color: #106FA5;
+}
+
+#leftColumn #lc_help .box_content {
+	color: #106FA5;
+}
+
+#leftColumn #lc_guide a {
+	background-image: url(/content/files/public/style/images/lifandiLeidsogn/thekkingartorg.gif);
+}
+
+#leftColumn #lc_interactive {
+	height: 35px;
+}
+
+#leftColumn #lc_interactive a {
+	display: block;
+	height: 35px;
+	width: 178px;
+	background: url(/content/files/public/style/images/smallBanners/gagnvirkt_tolvunam.gif) repeat-x;
+}
+
+.applications_box_header {
+	color: #106FA5;
+	font-size: 0.9em;
+	font-weight: bold;
+	line-height: 1.8em;
+	height: 18px;
+	padding-left: 9px;
+	margin-bottom: 10px;
+}
+
+.text_headline2 {
+	color:#106FA5
+}
+
+table.data th {
+	background-color: #F1F1F1;
+	color: #106FA5;
+}
+
+#content h4 {
+	font-size: 0.7em;
+	color: #106FA5;
+	margin: 19px 0 2px 21px;
+}
+
+.percentageLevel {
+	background-color: #106FA5 ! important;
+	margin-left: 0 ! important;
+}
+
+ul.defaultList li {
+	list-style: inside;
+	color: #106FA5;
+	margin-bottom: 16px;
+	padding: 2px;
+	padding-left: 10px;
+	border: 1px #ccc solid;
+	background: url(left_column_bg.jpg) repeat-x top left #F1F1F1;
+}
+
+ul.defaultList li a {
+	text-decoration: none;
+	font-size: 10px;
+}
+
+ul.defaultList li a:hover {
+	text-decoration: underline;
+}
+
+ul.defaultList li ul {
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+ul.defaultList li ul li {
+	margin: 0;
+	padding: 0;
+	padding-left: 18px;
+	border: 0;
+	background: none;
+}
+
+#rssLeft H2 {
+	font-size : 14px;
+}
+#rssRight H2 {
+	font-size : 14px;
+}
+
+#rssLeft {
+	width : 270px;
+	float : left;
+	padding : 10px;
+}
+
+#rssRight {
+	float : right;
+	width : 269px;
+	border-left : 1px solid #c6c6c6;
+	padding : 10px;
+}
+
+.middle_box_header {
+	color: #106FA5;
+}
+
+div.formSection p {
+	margin: 0;
+	padding-bottom: 16px;
+}
+
+#content #skjalfandiContent {
+	background: url(/content/files/public/style/images/backgrounds/fraedsluBackground.gif);
+	height: 230px;
+	margin: 8px;
+	padding: 0;
+}
+
+#content #skjalfandiContent h1#rightContentHeader {
+	color: #106FA5;
+	right: 85px;
+}
+
+#content div#skjalfandiContent div.topContent h1 {
+	color: #106FA5;
+}
+
+div#skjalfandiContent div.topContent p, div#skjalfandiContent div.bottomContent p {
+	margin-bottom: 10px;
+}
+
+div#skjalfandiContent div.bottomContent p {
+	margin-top: 0;
+}
+
+h1#rightContentHeader {
+	right: 87px;
+	color: #106FA5;
+}
+
+div#skjalfandiContent div.quote {
+	position: absolute;
+	right: 12px;
+	top: 32px;
+	width: 169px;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	color: #3F3F3F;
+	font-size: 11px;
+}
+
+div#skjalfandiContent div.quote div.author {
+	text-align: right;
+	margin-top: 6px;
+}
+
+div#bottomItems {
+	padding: 0;
+	margin: 8px;
+	margin-top: 0;
+}
+
+div#bottomItems div.bottomBox {
+	width: 282px;
+	float: left;
+	margin-top: 0px;
+	margin-bottom: 8px;
+}
+
+div#bottomItems div.bottomBox h1 {
+	color: #106FA5;
+}
+
+div#bottomItems div.bottomBoxContent {
+	padding: 8px;
+	height: 57px;
+	background: url(/content/files/public/style/images/backgrounds/bottomBoxBackground.gif) #fff repeat-x;
+}
+
+div#bottomItems div.bottomBoxLeft {
+	margin-right: 4px;
+}
+
+div#bottomItems div.bottomBoxContent p {
+	position: relative;
+}
+
+div#bottomItems div.bottomBoxContent p span {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	color: #3F3F3F;
+	font-size: 11px;
+	background: none;
+	float: none;
+}
+
+div#bottomItems div.bottomBoxContent p a {
+	display: block;
+	position: absolute;
+	width: 50px;
+	height: 17px;
+	background: url(/content/files/public/style/images/view_button.gif);
+	float: right;
+	top: 40px;
+	right: 0;
+}
+
+div#leftColumn div#lc_science div.rssItem {
+	position: relative;
+}
+
+div#leftColumn div#lc_science div.rssItem div.rssItemPublishedDate {
+	position: absolute;
+	top: 3px;
+	font-size: 10px;
+}
+
+div#leftColumn div#lc_science div.rssItem a {
+	padding-top: 16px;
+	display: block;
+}
+
+div#skjalfandiContent {
+	margin-bottom: 0;
+}
+
+div#leftColumn div#lc_ideas form {
+	padding: 5px 0;
+	position: relative;
+}
+
+div#leftColumn div#lc_ideas form a {
+	position: absolute;
+	top: 22px;
+	right: 5px;
+	text-decoration: none;
+	width: 46px;
+	height: 17px;
+	display: block;
+	background: url(/content/files/public/style/button_send2.gif) no-repeat;
+}
+
+div#leftColumn div#lc_ideas form p {
+	padding-bottom: 16px;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #595858;
+}
+
+div#leftColumn div#lc_ideas form input {
+	width: 158px;
+	border: 1px #c6c6c6 solid;
+	padding: 2px;
+	font-size: 11px;
+}
+
+* html .bottomBoxContent p{ /* "For your IE's only" hack  */
+	height: 55px !important;
+}
+
+div.suggestionLayer h1 {
+	font-size: 12px;
+	margin-bottom: 12px;
+}
+
+div.suggestionLayer p {
+	font-size: 11px;
+	margin-bottom: 12px;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<psf version="2.0">
+  <provider id="org.eclipse.team.cvs.core.cvsnature">
+    <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/se.idega.idegaweb.commune.bundle,se.idega.idegaweb.commune" />
+    <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.demo.bundle,com.idega.block.demo" />
+    <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.forum.bundle,com.idega.block.forum" />
+    <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.poll.bundle,com.idega.block.poll,BRANCH_PLATFORM_3_1" />
+    <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.calendar.bundle,com.idega.block.calendar" />
+    <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.news.bundle,com.idega.block.news" />
+    <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.login.bundle,com.idega.block.login" />
+    <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.category.bundle,com.idega.block.category" />
+  </provider>
+</psf>

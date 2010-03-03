@@ -1,0 +1,315 @@
+body {
+	background-image: url(/content/files/public/style/gradient_1.gif);
+}
+a {
+	color: #BF9662;
+}
+
+.survey {
+	padding: 6px;
+}
+
+.survey a {
+	font-size: 11px;
+}
+
+.middle_box {
+	border: 1px solid #C6C6C6;
+	margin: 8px;
+}
+
+.middle_box_header {
+	border-bottom : solid #A9A9A9 1px;
+	background-color: #F2F2F2;
+	display:block;
+	color: #BF9662;
+	font-size: 0.9em;
+	font-weight: bold;
+	line-height: 1.8em;
+	height: 18px;
+	padding-left: 9px;
+	margin-bottom: 0;
+}
+
+.middle_box_content {
+	padding: 10px;
+}
+
+#login_box h2, #leftColumn h2 {
+	color: #BF9662;
+}
+#leftColumn ul.lc_list_a {
+	list-style-image: url(lc_list_bullet_01.gif);
+}
+#leftColumn p.lc_month_nav {
+	color: #BF9662;
+}
+/* :: CONTENT :: */
+#content a {
+	font-weight: bold;
+}
+#content h4,
+#content h5 {
+	margin: 19px 55px 5px 21px;
+}
+#content h4.cc_title_a {
+	color: #B5A970;
+	font-size: 0.7em;
+}
+#content p.cc_text_a,
+#content p.cc_text_b {
+	line-height: 1.5em;
+	font-size: 0.7em;
+	color: #777;
+}
+#content p.cc_text_a {
+	margin: 0 55px 10px 21px;
+}
+#content h4.cc_title_b {
+	color: #777;
+	font-size: 0.8em;
+	margin-bottom: 20px;
+}
+#content h4.cc_title_c {
+	color: #777;
+	font-size: 0.8em;
+	margin-bottom: 2px;
+}
+#content p.cc_text_b {
+	margin: 0 55px 10px 21px;
+}
+#content h5 {
+	color: #B5A970;
+	font-size: 0.7em;
+	margin-bottom: 0px;
+}
+.cc_left_column_c,
+.cc_right_column_c{
+	float: left;
+}
+.cc_left_column_c em,
+.cc_right_column_c em{
+	color: #f00;
+	font-style: normal;
+}
+.cc_left_column_c {
+	width: 340px;
+	margin-bottom: 137px;
+}
+.cc_right_column_c {
+	width: 200px;
+	padding-top: 75px;
+}
+.cc_right_column_c label {
+	color: #777;
+	font-size: 0.7em;
+	display: block;
+	margin: 4px 0 2px 0;
+}
+.cc_right_column_c input.txtinput {
+	border: 1px solid #CECECE;
+	border-top: 2px solid #8F8F8F;
+	height: 16px;
+	width: 146px;
+	font-size: 0.7em;
+	line-height: 1em;
+	color: #777;
+}
+.cc_right_column_c input.button_send{
+	margin: 20px 0 20px 87px;
+}
+#content img {
+	/*
+    border: 1px solid #A9A9A9;
+	margin-right: 24px;
+    */
+    border: none;
+}
+.top_content {
+	border-bottom: 1px solid #C6C6C6;
+	padding: 18px 23px 24px 23px;
+}
+.two_column_content_left,
+.two_column_content_right {
+	border-bottom: 1px solid #C6C6C6;
+	float: left;
+	width: 289px;
+	w\idth: 243px;
+	padding: 16px 23px 15px 23px;
+}
+.top_content,
+.two_column_content_left,
+.two_column_content_right {
+	padding: 16px 23px 16px 23px;
+}
+.two_column_content_left {
+	w\idth: 244px;
+}
+.two_column_content_left {
+	border-right: 1px solid #C6C6C6;
+}
+
+#content .cc_date {
+	font-size: 0.7em;
+	color: #B4A86F;
+}
+#content h3 {
+	color: #595858;
+	font-size: 0.8em;
+	margin: 3px 0 0 0;
+}
+#content .cc_text {
+	font-size: 0.7em;
+	color: #777;
+	line-height: 1.5em;
+}
+#content .cc_link a {
+	font-size: 0.7em;
+}
+table td {
+	color: #777777 ! important;
+	font-size: 12px;
+	padding: 3px;
+}
+.questions_and_answers {
+	color: #777;
+	padding: 10px;
+	font-size: 12px ! important;
+}
+
+.title {
+	font-size: 12px;
+}
+.answer {
+	margin: 0;
+}
+.category {
+	margin-bottom: 5px;
+}
+.commune_ErrorText, .commune_SmallText {
+	font-size: 12px ! important;
+}
+
+form#accountApplicationForm {
+	height: 400px;
+}
+
+html>body form#accountApplicationForm {
+	height: auto;
+	min-height: 400px;
+}
+
+form#forgotPasswordForm div.header, form#accountApplicationForm div.header {
+	display: none;
+}
+
+form#forgotPasswordForm div.formItem label, form#accountApplicationForm div.formItem label {
+	color: #393939;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 130px;
+}
+
+form#forgotPasswordForm div.formItem input, form#accountApplicationForm div.formItem input {
+	width: 150px;
+	border: 1px #ccc solid;
+}
+
+form#forgotPasswordForm div.buttonLayer, form#accountApplicationForm div.buttonLayer {
+	padding-left: 145px;
+	padding-bottom: 12px;
+}
+
+form#accountApplicationForm div.buttonLayer {
+	padding-top: 12px;
+}
+
+p.requiredInfo {
+	padding-left: 12px;
+}
+
+span.required {
+	float: left;
+	clear: none;
+	padding-right: 2px;
+	margin: 0;
+}
+
+form#accountApplicationForward {
+	position: absolute;
+	right: 15px;
+	top: 41px;
+	width: 90px;
+}
+
+form#accountApplicationForward div.label {
+	font-size: 11px;
+	color: #3F3F3F;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	margin-bottom: 3px;
+}
+
+form#accountApplicationForward input {
+	width: 88px;
+	border: 1px #aaa solid;
+	font-size: 12px;
+}
+
+form#accountApplicationForward div.example {
+	display: none;
+}
+
+form#accountApplicationForward a {
+	margin-top: 10px;
+	margin-left: 34px;
+	display: block;
+	width: 56px;
+	height: 17px; 
+	background: url(/content/files/public/style/button_login.jpg); 	
+
+}
+
+form#accountApplicationForward a span {
+	display: none;
+}
+
+div#skjalfandiContent div.topContent {
+	padding: 20px 17px 0 17px;
+	width: 341px;
+}
+
+div#skjalfandiContent div.bottomContent {
+	padding: 0 17px;
+}
+
+div#skjalfandiContent div.topContent h1 {
+	font-size: 17px;
+	color: #BE995E;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 8px;
+}
+
+div#skjalfandiContent div.topContent p, div#skjalfandiContent div.bottomContent p {
+	color: #3F3F3F;
+	font-size: 11px;
+	line-height: 17px;
+	padding: 0;
+	margin: 0;
+}
+
+div#skjalfandiContent div.bottomContent p {
+	margin-top: 10px;
+}
+
+#content h1#rightContentHeader {
+	position: absolute;
+	display: block;
+	top: 5px;
+	right: 100px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	font-size: 11px;
+	color: #BE995E;
+}

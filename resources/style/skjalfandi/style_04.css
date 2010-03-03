@@ -1,0 +1,579 @@
+body {
+	background-image: url(/content/files/public/style/gradient_4.gif);
+}
+
+a {
+	color: #A93238;
+	text-decoration: none;
+}
+
+div#content div.padder {
+	padding: 0;
+}
+
+#leftColumn #lc_guide a {
+	background-image: url(/content/files/public/style/images/lifandiLeidsogn/heilsutorg.gif);
+}
+
+#login_box h2, #leftColumn h2 {
+	color: #A93238;
+}
+
+#leftColumn ul.lc_list_a {
+	list-style-image: url(lc_list_bullet_04.gif);
+}
+
+#leftColumn p.lc_month_nav {
+	color: #A93238;
+}
+
+.applications_box_header {
+	color: #A93238;
+	font-size: 0.9em;
+	font-weight: bold;
+	line-height: 1.8em;
+	height: 18px;
+	padding-left: 9px;
+	margin-bottom: 10px;
+}
+
+.text_headline2 {
+	color:#A93238
+}
+
+table.data th {
+	background-color: #F1F1F1;
+	color: #A93238;
+}
+
+#content h4 {
+	font-size: 0.7em;
+	color: #A93238;
+	margin: 19px 0 2px 21px;
+}
+
+.percentageLevel {
+	background-color: #A93238 ! important;
+	margin-left: 0 ! important;
+}
+
+div#heilsuModernus div.modernusTop {
+	background-image: url(/content/files/public/style/modernus/heilsu_top.gif);
+}
+
+div#heilsuModernus ul li {
+	color: #A83237;
+}
+
+div#heilsuModernus ul li a {
+	color: #A83237;
+}
+
+.padder ul {
+	border: 1px solid #cdcdcd;
+	padding : 3px;
+}
+
+.padder span {
+	color: #a93238;
+	font-size: 12px;
+	margin-bottom: 200px;
+}
+
+.padder ul li ul {
+	margin-top: 3px;
+	border: 0px;
+}
+
+.padder li {
+	list-style-position: inside;
+	list-style-type: disc;
+	color: #a93238;
+	margin-left: 16px;
+}
+
+.padder li a {
+	font-size: 10px;
+	text-decoration: none;
+	color: #a93238;
+}
+
+.article_headline{
+	color: #3c3c3c !important;
+}
+
+.article_body{
+	color: #3c3c3c !important;
+}
+
+.article_body ul {
+	padding-left: 50px;
+}
+
+.article_body ul a{
+	color: #3c3c3c !important;
+	text-decoration: none;
+}
+
+.article_item_odd {
+	border: 0 !important;
+}
+
+.article_item_even {
+	border: 0 !important;
+}
+
+.oddRow .patientType{
+	background-color: #f3f3f3;
+}
+
+.oddRow .patientType a{
+	color: #a93238;
+	text-decoration: underline;
+}
+
+.evenRow .patientType a{
+	color: #a93238;
+	text-decoration: underline;
+}
+
+.patientHeading{
+	padding: 20px;
+	color: #333;
+}
+
+.patientFooterType{
+	border-top: 1px solid #d5d5d5;
+	padding: 5px;
+	border-bottom: 1px solid #d5d5d5;
+	background-color: #e8e8e8;
+	color: #000;
+}
+
+.timeslots {
+	width: 538px;
+	text-align: center;
+}
+
+.timeslots tr th {
+	padding: 3px 5px;
+	text-transform: capitalize;
+}
+
+.timeslots tr td {
+	padding: 2px 5px;
+	text-transform: capitalize;
+}
+
+.timeslots .free {
+	background: #d6d6d6;
+	border: 1px solid #fff;
+}
+
+.timeslots .free a {
+	font-size: 11px;
+	color: #fe4700;
+	text-decoration: none;
+}
+
+.timeslots .busy {
+	background: #d6d6d6;
+	border: 1px solid #fff;
+	text-decoration: line-through;
+}
+
+.timeslots span {
+	font-size: 11px;
+	color: #727272;
+	margin: 0;
+	padding: 0;
+}
+
+div#weekLayer {
+	margin: 0;
+	margin-bottom: 8px;
+	overflow: hidden;
+}
+
+div#weekLayer a {
+	font-size: 11px;
+	font-weight: normal;
+}
+
+div#weekLayer a#lastWeek {
+	float: left;
+}
+
+div#weekLayer a#nextWeek {
+	float: right;
+}
+
+div#leftColumn div#heilsuModernus div.modernusTop {
+	background-image: url(/content/files/public/style/modernus/heilsu_top.gif);
+}
+
+div#leftColumn div#heilsuModernus ul li {
+	color: #A93238;
+}
+
+div#leftColumn div#heilsuModernus ul li a {
+	color: #A93238;
+}
+
+div#patientList {
+	overflow: hidden;
+}
+
+div#patientList_selectedText{
+	display: block;
+	float: left;
+	margin-right: 1em;
+}
+
+div#patientList_selectedPatient{
+	display: block;
+	float: left;
+	font-weight: bold;
+}
+
+div#content .indentedButton{
+	margin: 5px 0 3px 3px;
+	float: left;
+	border: 1px solid #c1c1c1;
+}
+
+#weekLayer{
+	margin-left: 10px;
+}
+
+.content_list ul a{
+	color: #A93238 !important;
+}
+
+.content_list .article_headline{
+	color: #A93238 !important;
+}
+
+.content_list ul{
+	color: #A93238;
+}
+
+.content_list ul a{
+	color: #A93238 !important;
+}
+
+div.formItem span {
+	padding: 0;
+	color: #1e1e1e;
+	font-weight: normal;
+}
+
+div.info {
+	background: url(/content/files/public/style/images/heilsutorg/head-tiler.gif) repeat-x #EAC3AE;
+}
+
+div.phases {
+	top: -8px;
+}
+
+div.phases ul {
+	border: 0;
+}
+
+div.phases ul li {
+	margin-left: 4px;
+}
+
+div.phases ul li.current {
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/content/files/public/style/images/heilsutorg/red_orb.png',sizingMethod='scale');
+}
+
+html>body div.phases ul li.current {
+	background: url(/content/files/public/style/images/heilsutorg/red_orb.png) no-repeat;
+}
+
+div.bottom a.button:hover span {
+	color: #fff;
+}
+
+div.bottom a.button:hover span.buttonSpan span.middle {
+	background: url(/content/files/public/style/images/heilsutorg/buttons/middle_hover.png) repeat-x;
+}
+
+div.bottom a.button:hover span.buttonSpan span.left {
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/content/files/public/style/images/heilsutorg/buttons/left_hover.png',sizingMethod='scale');
+}
+
+html>body div.bottom a.button:hover span.buttonSpan span.left {
+	filter: none;
+	background: url(/content/files/public/style/images/heilsutorg/buttons/left_hover.png) no-repeat;
+}
+
+div.bottom a.button:hover span.buttonSpan span.right {
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/content/files/public/style/images/heilsutorg/buttons/right_hover.png',sizingMethod='scale');
+}
+
+html>body div.bottom a.button:hover span.buttonSpan span.right {
+	filter: none;
+	background: url(/content/files/public/style/images/heilsutorg/buttons/right_hover.png) no-repeat;
+}
+
+#content {
+	padding: 8px;
+	width: 570px;
+}
+
+html>body #content {
+	width: 568px;
+}
+
+div.padderBorder {
+	padding: 0;
+	margin: 0;
+	border: 1px #C6C6C6 solid;
+}
+
+div.bookinglist {
+	overflow: hidden;
+}
+
+div#content div.bookinglist div.buttonLayer {
+	margin-bottom: 8px;
+	margin-right: 8px;
+	overflow: hidden;
+}
+
+div#content div.bookinglist div.buttonLayer input {
+	float: right;
+}
+div.attention {
+	width: auto;
+}
+
+div.attention div.attentionText {
+	width: auto;
+}
+
+div#patientList div.buttonLayer {
+	margin-bottom: 8px;
+	margin-right: 8px;
+	overflow: hidden;
+}
+
+div#patientList div.buttonLayer input {
+	float: right;
+}
+
+table.bookinglist_list thead tr th {
+	text-align: left;
+	background-color: #E8E8E8;
+	padding: 5px 8px;
+	font-weight: bold;
+	border-top: 1px solid #c5c5c5;
+	border-bottom: 1px solid #c5c5c5;
+}
+
+table.bookinglist_list tbody tr {
+	background: #fff;
+}
+
+table.bookinglist_list tbody tr.ruled{
+	background: #efefef;
+}
+
+table.bookinglist_list tbody tr td {
+	padding: 5px 8px;
+	border-bottom: 1px #D5D5D5 solid;
+}
+
+div#infoText {
+	padding: 8px;
+}
+
+table.bookinglist_list img {
+	width: 15px;
+	height: 14px;
+}
+
+#content #skjalfandiContent {
+	margin: 0;
+	background: url(/content/files/public/style/images/backgrounds/heilsuBackground.gif);
+	height: 234px;
+	padding: 0;
+}
+
+#content div#skjalfandiContent div.topContent h1 {
+	color: #A93238;
+}
+
+div#leftColumn div#lc_phones div.box_content {
+	padding: 6px 14px;
+	font-size: 11px;
+	color: #A83237;
+	font-weight: bold;
+}
+
+div#leftColumn div.phoneItem div.phoneLabel {
+	float: left;
+	width: 96px;
+}
+
+.curveBox {
+	margin: 8px 0;
+}
+
+.curveBox span h1 {
+	color: #A83237;
+}
+
+.curveBox .article_body {
+	display: none;
+}
+
+#content .curveBox .article_teaser {
+	width: 480px;
+}
+
+.curveBox .item_details_command {
+	display: block;
+}
+
+#content {
+	margin-bottom: 4px;
+}
+
+#content #bottomItems {
+	margin: 0;
+	padding: 0;
+}
+
+#content #bottomItems .bottomBox span h1 {
+	color: #A83237;
+}
+
+#content #bottomItems .bottomBox .bottomBoxContent ul {
+	color: #A83237;
+	margin-bottom: 4px;
+}
+
+#content #bottomItems .bottomBoxLeft, #content #bottomItems .bottomBoxRight {
+	float: left;
+	width: 281px;
+}
+
+#content #bottomItems .bottomBoxRight {
+	margin-left: 4px;
+}
+
+#content p.healthEducation {
+	margin: 11px 15px;
+	font-size: 11px;
+	color: #595858;
+}
+
+#content div#educationLists {
+	padding: 6px 8px 6px 15px;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+#content div#educationLists ul {
+	float: left;
+	padding-left: 14px;
+	color: #A83237;
+	width: 165px;
+}
+
+#content div#educationLists ul li a {
+	font-size: 11px;
+	color: #A83237;
+}
+
+div#bottomItems div.bottomBox {
+	margin-top: 0;
+}
+
+div#bottomItems div.bottomBoxContent {
+	height: auto;
+}
+
+div#bottomItems div.bottomBoxLeft {
+	margin-right: 2px;
+}
+
+div.patientHeader {
+	display: none;
+}
+
+div.patientList {
+	margin-top: 8px;
+}
+
+
+#leftColumn #lc_phones .box_content{
+height: 90px;
+}
+
+#leftColumn #lc_phones .box_content .phoneNumber{
+display: block;
+float: left;
+margin-left: -6px;
+margin-right: -6px;
+}
+
+
+/*For your IEs only - Begins*/
+
+* html #content #skjalfandiContent{
+width: 568px;
+}
+
+* html #content #bottomItems .bottomBoxRight {
+float: left;
+width: 279px;
+margin-right: -6px;
+}
+
+* html #content #bottomItems .bottomBoxRight .bottomBoxContent{
+padding-top: 9px;
+padding-bottom: 9px;
+}
+
+* html #leftColumn #lc_phones .box_content{
+width: 178px;
+}
+
+* html #leftColumn #lc_phones .box_content .phoneItem{
+width: auto;
+margin-left: -6px;
+margin-right: -6px;
+}
+
+* html #container #mainBody #rightColumn #content{
+width: 586px;
+} 
+
+/*For your IEs only - Ends*/
+
+#content table.caseTable tfoot tr td {
+	text-align: right;
+}
+
+#content table.caseTable tfoot tr td div#patientList_selectedText {
+	float: none;
+	display: inline;
+}
+
+#content table.caseTable tfoot tr td div#patientList_selectedPatient {
+	float: none;
+	display: inline;
+}
+
+div#notLoggedInLayer {
+	border: 1px #f00 solid;
+	padding: 15px;
+	margin: 15px;
+	font-weight: bold;
+	border: 1px #ccc solid;
+	background-color: #fff7cc;
+}

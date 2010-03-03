@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pxml>
+  <map>
+    <key>
+      <name>com.idega.core.editorwindow_styleSheet_path</name>
+      <type>java.lang.String</type>
+      <value>/idegaweb/bundles/com.idega.core.bundle/resources/editorwindow/</value>
+    </key>
+  </map>
+</pxml>
+
